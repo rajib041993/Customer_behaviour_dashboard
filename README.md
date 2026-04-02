@@ -138,8 +138,8 @@ Then connect to your PostgreSQL instance and run the queries in `sql/business_qu
 
 Feel free to connect or reach out for collaboration!
 
-- **LinkedIn:** [your-linkedin-url]
-- **Email:** your-email@example.com
+- **LinkedIn:** [(https://www.linkedin.com/in/rajib-baro-117826172)]
+- **Email:** rajibboro0407@gmail.com
 
 ---
 
